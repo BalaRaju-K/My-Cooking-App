@@ -136,10 +136,26 @@ OK
 Destroying test database for alias 'default'...
 
 ## 🌟 Future Enhancements:<br>
-- Add a feature to upload and display recipe images.
-- Implement OAuth-based authentication (e.g., Google or Facebook login).
-- Add notifications for new reviews or recipe updates.
-- Optimize API performance with caching.
+### Template Rendering:
++ Create visually appealing and responsive templates using Django's template system to render dynamic web pages for users.
+
+### User Portfolio:
++ Add a feature where users can showcase their favorite recipes or dietary preferences. This personalized portfolio could be shared with others or used for personal tracking.
+
+### OAuth-Based Authentication:
++ Provide login options via Google, Facebook, or other OAuth providers for a more seamless and secure authentication process.
+
+### Recipe Images:
++ Allow users to upload and view images for recipes to make the platform more engaging.
+
+### Enhanced Search and Filters:
++ Improve search functionality by allowing users to filter recipes by multiple criteria such as dietary preferences, cooking styles, or ratings.
+
+### Notifications:
++ Notify users about new recipes, reviews, or updates related to their dietary preferences.
+
+### Mobile Optimization:
++ Ensure the platform is mobile-friendly and optimized for smaller screens.
 
 ## 🤝 Credits:<br>
 - Developed by: Bala Raju.K<br>
